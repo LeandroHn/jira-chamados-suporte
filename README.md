@@ -65,7 +65,7 @@ Durante a construção da simulação foram aplicados conceitos de:
 
 - Jira / Atlassian
 - Help Desk
-- QA
+- Conceitos de QA aplicados ao suporte
 - ITSM
 - Kanban
 - GitHub
