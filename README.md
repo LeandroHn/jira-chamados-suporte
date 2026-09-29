@@ -77,10 +77,6 @@ Durante a construção da simulação foram aplicados conceitos de:
 
 🔗 **Projeto:** [link do GitHub Pages]
 
-> Este projeto é uma **simulação de portfólio** criada para demonstrar conhecimentos e práticas relacionadas a suporte técnico, QA e gerenciamento de chamados. Não representa uma experiência profissional real em Jira.
-
 ## Autor
 
 **Leandro**
-
-Áreas de interesse: **Help Desk • Suporte Técnico • QA • Desenvolvimento • Automação**
