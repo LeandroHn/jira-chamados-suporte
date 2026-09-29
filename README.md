@@ -40,5 +40,7 @@ A versão web deste repositório é uma **simulação de portfólio**, publicada
 ## Ferramentas
 Jira / Atlassian • Help Desk • QA • ITSM • Kanban • GitHub • HTML • CSS • JavaScript
 
+🔗 **Projeto:** [https://leandrohn.github.io/jira-chamados-suporte/]
+
 ## Autor
-**Leandro** — Help Desk • Suporte Técnico • QA • Desenvolvimento • Automação
+**Leandro**
