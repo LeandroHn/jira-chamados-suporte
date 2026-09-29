@@ -1,82 +1,44 @@
 # 🎫 Central de Chamados de Suporte — Jira
 
-**Projeto simulado | Área: QA / Help Desk**
+**Projeto simulado | QA / Help Desk**
 
-## Sobre o projeto
+## Sobre
+Central de chamados simulada, inspirada em conceitos de Jira/ITSM, reunindo **bugs, solicitações de serviço e dúvidas** com tipo, prioridade, status e documentação estruturada.
 
-Projeto de portfólio desenvolvido para simular o funcionamento de uma central de chamados de suporte técnico utilizando conceitos de **Jira e ITSM**.
+## Workflow
+**Aberto → Em Andamento → Aguardando Resposta do Usuário → Resolvido → Fechado**
 
-A simulação reúne diferentes tipos de chamados — bugs, solicitações de serviço e dúvidas de usuários — organizados por prioridade e acompanhados durante todo o seu ciclo de atendimento.
+## Tipos
+- 🐞 **Bug** — falha técnica no sistema.
+- 📩 **Solicitação de Serviço** — acesso, instalação, criação de usuário etc.
+- ❓ **Dúvida** — pergunta sem defeito técnico identificado.
 
-O objetivo é demonstrar, de forma prática, conhecimentos de **triagem, categorização, priorização, documentação técnica e acompanhamento de chamados**, sem representar experiência profissional real com Jira.
-
-## Estrutura do projeto
-
-**Tipos de ticket:**
-- 🐞 **Bug** — falha técnica identificada no sistema
-- 📩 **Solicitação de Serviço** — pedido de acesso, instalação, criação de usuário etc.
-- ❓ **Dúvida** — questionamento ou necessidade de orientação do usuário
-
-**Workflow:**
-
-Aberto → Em Andamento → Aguardando Resposta do Usuário → Resolvido → Fechado
-
-**Prioridades:**
-- 🔴 Crítica
-- 🟠 Alta
-- 🟡 Média
-- 🟢 Baixa
+## Prioridades
+**Crítica • Alta • Média • Baixa**
 
 ## Padrão de documentação
+**Bug:** ambiente/contexto, reprodução, resultado observado, resultado esperado, evidências e causa/solução quando resolvido.
 
-Cada chamado segue uma estrutura organizada de acordo com seu tipo:
+**Solicitação:** solicitante, necessidade, justificativa e validações.
 
-- **Bug:** contexto, problema identificado, resultado esperado e informações para reprodução
-- **Solicitação:** solicitante, necessidade e justificativa
-- **Dúvida:** contexto, pergunta e orientação necessária
+**Dúvida:** contexto, pergunta e orientação fornecida.
 
-Nos chamados resolvidos, também é registrada a **causa identificada e/ou solução aplicada**, simulando uma documentação adequada para encerramento do atendimento.
-
-## O que foi praticado
-
-Durante a construção da simulação foram aplicados conceitos de:
-
-- Organização e classificação de chamados
-- Triagem e definição de prioridades
-- Fluxo de atendimento e acompanhamento
-- Documentação técnica
-- Análise e descrição de bugs
-- Registro de causa e solução
-- Conceitos de QA aplicados ao suporte
-- Noções de ITSM e atendimento N1
+Tickets resolvidos incluem registro da causa e/ou solução aplicada, em vez de apenas encerrar o chamado.
 
 ## Habilidades demonstradas
-
-- Organização de projetos e workflows
-- Categorização de tickets
-- Priorização de chamados
-- Escrita técnica clara e estruturada
-- Documentação de problemas e soluções
-- Noções de Jira / Atlassian
-- Noções de Help Desk e ITSM
-- Aplicação de conceitos de QA em processos de suporte
-
-## Ferramentas e tecnologias
-
-- Jira / Atlassian
-- Help Desk
-- Conceitos de QA aplicados ao suporte
-- ITSM
-- Kanban
-- GitHub
-- HTML
-- CSS
-- JavaScript
+- Configuração e organização de workflow.
+- Classificação de tickets e prioridades.
+- Escrita técnica clara e reprodutível.
+- Noções de triagem e atendimento N1.
+- Documentação de causa e solução.
+- Aplicação de conceitos de QA ao suporte.
+- Jira/Atlassian, ITSM e Kanban.
 
 ## Demo
+A versão web deste repositório é uma **simulação de portfólio**, publicada como site estático no GitHub Pages. Não é um projeto oficial da Atlassian.
 
-🔗 **Projeto:** [link do GitHub Pages]
+## Ferramentas
+Jira / Atlassian • Help Desk • QA • ITSM • Kanban • GitHub • HTML • CSS • JavaScript
 
 ## Autor
-
-**Leandro**
+**Leandro** — Help Desk • Suporte Técnico • QA • Desenvolvimento • Automação
